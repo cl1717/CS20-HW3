@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href = "style.css"?>
+<SongList>
+  <Heading>Wedding Songs</Heading>
+  <Song>
+    <Title>Afterglow</Title>
+    <Artist>Artist(s): Ed Sheeran</Artist>
+    <MusicGenre>Music Genre: Ballads</MusicGenre>
+    <YearOfRelease>Year of Release: 2020</YearOfRelease>
+  </Song>
+  <Song>
+    <Title>All Of Me</Title>
+    <Artist>Artist(s):John Legend</Artist>
+    <MusicGenre>Music Genre: Ballads</MusicGenre>
+    <YearOfRelease>Year of Release: 2013</YearOfRelease>
+  </Song>
+  <Song>
+    <Title>Just The Way You Are</Title>
+    <Artist>Artist(s):Billy Joel</Artist>
+    <MusicGenre>Music Genre: Ballads</MusicGenre>
+    <YearOfRelease>Year of Release: 2010</YearOfRelease>
+  </Song>
+  <Song>
+    <Title>Isn't She Lovely</Title>
+    <Artist>Artist(s): Stevie Wonder</Artist>
+    <MusicGenre>Music Genre: Contemporary</MusicGenre>
+    <YearOfRelease>Year of Release: 1976</YearOfRelease>
+  </Song>
+  <Song>
+    <Title>Lovely Day</Title>
+    <Artist>Artist(s): Bill Withers</Artist>
+    <MusicGenre>Music Genre: Contemporary</MusicGenre>
+    <YearOfRelease>Year of Release: 1977</YearOfRelease>
+  </Song>
+  <Song>
+    <Title>Sunday Morning</Title>
+    <Artist>Artist(s): Maroon 5</Artist>
+    <MusicGenre>Music Genre: Contemporary</MusicGenre>
+    <YearOfRelease>Year of Release: 2007</YearOfRelease>
+  </Song>
+  <Song>
+    <Title>Angel in White Unaware</Title>
+    <Artist>Artist(s): Michael Shynes</Artist>
+    <MusicGenre>Music Genre: Pop, Rock</MusicGenre>
+    <YearOfRelease>Year of Release: 2020</YearOfRelease>
+  </Song>
+  <Song>
+    <Title>Christmas Brought Me You</Title>
+    <Artist>Artist(s): Michael Shynes</Artist>
+    <MusicGenre>Music Genre: Jazz</MusicGenre>
+    <YearOfRelease>Year of Release: 2021</YearOfRelease>
+  </Song>
+  <Song>
+    <Title>Mine</Title>
+    <Artist>Artist(s): Taylor Swift</Artist>
+    <MusicGenre>Music Genre: Country</MusicGenre>
+    <YearOfRelease>Year of Release: 2010</YearOfRelease>
+  </Song>
+  <Song>
+    <Title>When Stars Go Blue</Title>
+    <Artist>Artist(s): Tim McGraw</Artist>
+    <MusicGenre>Music Genre: Country</MusicGenre>
+    <YearOfRelease>Year of Release: 2002</YearOfRelease>
+  </Song>
+</SongList>
+
